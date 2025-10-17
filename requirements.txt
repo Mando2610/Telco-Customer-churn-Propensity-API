@@ -1,0 +1,8 @@
+﻿Flask==3.0.1
+gunicorn==21.2.0
+pandas==2.2.3
+numpy>=1.26.4
+scikit-learn==1.4.0
+joblib==1.5.2
+xgboost==2.0.0
+Flask-Cors==4.0.0
